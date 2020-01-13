@@ -1,0 +1,6 @@
+module Pods_bloomTest23 {
+  umbrella header "Pods-bloomTest23-umbrella.h"
+
+  export *
+  module * { export * }
+}
